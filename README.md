@@ -15,3 +15,5 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
     <a href="https://github.com/AsLongAsItWorks?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AsLongAsItWorks?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+
+---
