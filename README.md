@@ -6,6 +6,9 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
 
 # 🖥️ Skills
 
+⌨️ C++
+🐍 Python
+
 <p align="left">
     <a href="https://github.com/AsLongAsItWorks?tab=followers">
       <img alt="followers" title="Follow me on Github" src ="https://custom-icon-badges.demolab.com/github/followers/AsLongAsItWorks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/><a>
