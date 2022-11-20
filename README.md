@@ -24,6 +24,6 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
         
 ### 📊 Stats
         
-![AsLongAsItWorks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslongasitworks&show_icons=true&theme=gruvbox)
+![AsLongAsItWorks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslongasitworks&show_icons=true&theme=radical)
 
 #
