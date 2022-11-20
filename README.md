@@ -6,7 +6,7 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
 
 # 🖥️ Skills
 
-⌨️ C++
+⌨️ C++<br />
 🐍 Python
 
 <p align="left">
