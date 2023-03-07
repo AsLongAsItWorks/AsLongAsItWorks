@@ -17,6 +17,7 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
      
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://banner2.cleanpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg" />
           
 <br />
 
@@ -29,8 +30,8 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
 #
 
 <details>
-    <summary><h3>📚 Why I Started</h3></summary>
-        I didn't really know what I wanted to do when I was older... I had a great passion for tech and everything tech related. I love computers. From building them, to troubleshooting them, overclocking, anything technical, I have done and can do. I learnt Python in my computer class at school, and began to develop a passion for coding. After that, I realised I could be a software engineer, code for big companies. However, I knew I had to learn a more sophisticated language if I wanted to have a chance at even cracking FAANG or a high paid software engineering job. Everything changed when I started learning C++. As of writing this, I'm roughly about a week in. I've enjoyed every second of it, everyday I learn something new and chalenge myself further to see what I'm capable of. I'm 15, with many years ahead of me, and I will crack FAANG and I will make it into the high-end side of th tech industry.
+    <summary><h3>📚 Hello</h3></summary>
+        Hi
     
     
     
