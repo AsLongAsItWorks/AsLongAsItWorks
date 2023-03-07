@@ -17,7 +17,7 @@ I'm working hard on becoming a full-stack developer / software engineer. I focus
      
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="https://banner2.cleanpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src ="[https://banner2.cleanpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" />
           
 <br />
 
