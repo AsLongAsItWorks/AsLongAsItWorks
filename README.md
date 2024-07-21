@@ -1,8 +1,8 @@
 # 🖥️ AsLongAsItWorks
 
-**`Digital Craftsman (Computer Scientist, Future Software Engineer, Developer)`**
+**`Professional programmer (Copy and paster)`**
 
-I literally don't know why I'm here..I just write cool codes ig.. pog.
+Hello
 
 <p align="left">
     <a href="https://github.com/AsLongAsItWorks?tab=followers">
